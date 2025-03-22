@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dynamic-ajax-product-filters-for-woocommerce\n"
+"POT-Creation-Date: 2023-10-01 12:00+0000\n"
+"PO-Revision-Date: 2025-01-23 06:13+0000\n"
+"Last-Translator: \n"
+"Language-Team: বাংলা\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+msgid "Add the pages below where you have added the shortcode."
+msgstr "নীচের পৃষ্ঠাগুলি যোগ করুন যেখানে আপনি শর্টকোডটি যোগ করেছেন।"
+
+msgid "Additional Options:"
+msgstr "অতিরিক্ত বিকল্পগুলি:"
+
+msgid "Admin Notice"
+msgstr "অ্যাডমিন নোটিশ"
+
+msgid "Advance Settings"
+msgstr "উন্নত সেটিংস"
+
+msgid "Auto Detect Pages & Default Filters"
+msgstr "স্বয়ংক্রিয়ভাবে পৃষ্ঠা এবং ডিফল্ট ফিল্টারগুলি সনাক্ত করুন"
+
+msgid "Checking..."
+msgstr "পরীক্ষা করা হচ্ছে..."
+
+msgid "customize"
+msgstr "কাস্টমাইজ"
+
+msgid "Disabled"
+msgstr "নিষ্ক্রিয়"
+
+msgid "Enable Hierarchical:"
+msgstr "ক্রমবর্ধমান সক্রিয় করুন:"
+
+msgid "Enable Minimization Option:"
+msgstr "সংকোচনের বিকল্প সক্রিয় করুন:"
+
+msgid "Enabled"
+msgstr "সক্রিয়"
+
+msgid "Enabled & hide child"
+msgstr "সক্রিয় এবং সাব-ক্যাটাগরি লুকান"
+
+msgid "Enabled & Seperate"
+msgstr "সক্রিয় এবং সাব-ক্যাটাগরি পৃথক"
+
+msgid "Enabled with Arrow"
+msgstr "তীর সহ সক্রিয়"
+
+msgid "Enabled without Arrow"
+msgstr "তীর ছাড়া সক্রিয়"
+
+msgid ""
+"Enter the CSS selector for the pagination container. Default is .woocommerce-"
+"pagination ul.page-numbers."
+msgstr ""
+"পেজিনেশন কন্টেইনারের জন্য CSS সিলেক্টর দিন। ডিফল্ট .woocommerce-pagination "
+"ul.page-numbers."
+
+msgid "Enter the CSS selector for the product container. Default is .products."
+msgstr "পণ্য কন্টেইনারের জন্য CSS সিলেক্টর দিন। ডিফল্ট .products."
+
+msgid "Enter the selector for the products shortcode. Default is products"
+msgstr "পণ্য শর্টকোডের জন্য সিলেক্টর দিন। ডিফল্ট: products"
+
+msgid "Export Settings"
+msgstr "সেটিংস এক্সপোর্ট করুন"
+
+msgid "Filter is not added"
+msgstr "ফিল্টার যোগ করা হয়নি"
+
+msgid "Filter Settings"
+msgstr "ফিল্টার সেটিংস"
+
+msgid "For button style filter use this shortcode:"
+msgstr "বোতাম স্টাইল ফিল্টারের জন্য এই শর্টকোড ব্যবহার করুন:"
+
+msgid "For show currently selected filter above product:"
+msgstr "বর্তমানে নির্বাচিত ফিল্টারটি পণ্যের উপরে দেখানোর জন্য:"
+
+msgid "Form Manage"
+msgstr "ফর্ম পরিচালনা"
+
+msgid "Form Style"
+msgstr "ফর্ম স্টাইল"
+
+msgid "Form Style Options"
+msgstr "ফর্ম স্টাইল বিকল্পগুলি"
+
+#| msgid "if you want to use permalinks filter in your front page, turn it on."
+msgid "If you want to use permalinks filter on your front page, turn it on."
+msgstr ""
+"যদি আপনি আপনার ফ্রন্ট পেজে পারমালিঙ্ক ফিল্টার ব্যবহার করতে চান তবে এটি চালু "
+"করুন।"
+
+msgid "Import & Export Settings"
+msgstr "ইম্পোর্ট ও এক্সপোর্ট সেটিংস"
+
+msgid "Import Settings"
+msgstr "সেটিংস ইম্পোর্ট করুন"
+
+msgid "Initially Minimized"
+msgstr "প্রাথমিকভাবে সঙ্কুচিত"
+
+msgid "loading effect"
+msgstr "লোডিং প্রভাব"
+
+msgid "Make filter link indexable for best SEO"
+msgstr "সেরা এসইও-এর জন্য ফিল্টার লিঙ্ক ইনডেক্সযোগ্য করুন।"
+
+msgid "Max Height:"
+msgstr "সর্বাধিক উচ্চতা:"
+
+msgid "Only one value can be selected at a time"
+msgstr "এক সময়ে শুধুমাত্র একটি মান নির্বাচন করা যেতে পারে"
+
+msgid "Optional Settings:"
+msgstr "ঐচ্ছিক সেটিংস:"
+
+msgid "Pages Manage"
+msgstr "পৃষ্ঠা পরিচালনা"
+
+msgid "Pagination Selector"
+msgstr "পেজিনেশন সিলেক্টর"
+
+msgid "Product Filter"
+msgstr "পণ্য ফিল্টার"
+
+msgid "Product Filters"
+msgstr "পণ্য ফিল্টার"
+
+msgid "Product Selector"
+msgstr "পণ্য সিলেক্টর"
+
+msgid "Product Shortcode Selector"
+msgstr "পণ্য শর্টকোড সিলেক্টর"
+
+msgid "Remove out of stock product"
+msgstr "স্টক আউট পণ্য সরান"
+
+msgid "Reset Settings"
+msgstr "সেটিংস রিসেট করুন"
+
+msgid "Select Attribute:"
+msgstr "বৈশিষ্ট্য নির্বাচন করুন:"
+
+msgid ""
+"Select the filter box style for each attribute below. Additional options "
+"will appear based on your selection."
+msgstr ""
+"প্রতিটি বৈশিষ্ট্যের জন্য ফিল্টার বক্সের স্টাইল নির্বাচন করুন। আপনার "
+"নির্বাচনের উপর ভিত্তি করে অতিরিক্ত বিকল্পগুলি প্রদর্শিত হবে।"
+
+msgid "Select URL Filter Type"
+msgstr "URL ফিল্টার প্রকার নির্বাচন করুন"
+
+msgid "Show Attributes"
+msgstr "বৈশিষ্ট্যগুলি দেখান"
+
+msgid "Show Categories"
+msgstr "বিভাগগুলি দেখান"
+
+msgid "Show Loader"
+msgstr "লোডার দেখান"
+
+msgid "Show number of products"
+msgstr "পণ্যের সংখ্যা দেখান"
+
+msgid "Show Price Range"
+msgstr "মূল্য পরিসীমা দেখান"
+
+msgid "Show Rating"
+msgstr "রেটিং দেখান"
+
+msgid "Show Search"
+msgstr "অনুসন্ধান দেখান"
+
+msgid "Show Tags"
+msgstr "ট্যাগগুলি দেখান"
+
+msgid "Show/Hide Number of Products:"
+msgstr "পণ্যের সংখ্যা দেখান/লুকান:"
+
+msgid "Single Selection:"
+msgstr "একক নির্বাচন:"
+
+msgid ""
+"This page was not found. If you think it's an error go to <b>product filters "
+"> Form Manage</b> & turn on <b><a href='/wp-admin/admin.php?page=dapfforwc-"
+"admin#:~:text=use%20filters%20word%20in%20permalinks'>use filters word in "
+"permalinks</a></b>. (only admin can see this.)"
+msgstr ""
+"এই পৃষ্ঠাটি পাওয়া যায়নি। আপনি যদি মনে করেন এটি একটি ত্রুটি, তাহলে <b>পণ্য "
+"ফিল্টার > ফর্ম পরিচালনা</b> এ যান এবং <b><a href='/wp-admin/admin.php?"
+"page=dapfforwc-admin#:~:"
+"text=%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87%20%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%20%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%20%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0%20%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8'"
+">পারমালিঙ্কে ফিল্টার শব্দ ব্যবহার করুন</a></b> চালু করুন। (শুধুমাত্র "
+"অ্যাডমিন এটি দেখতে পারে।)"
+
+msgid "Update filter options"
+msgstr "ফিল্টার বিকল্পগুলি আপডেট করুন"
+
+msgid "Use Custom Product Template"
+msgstr "কাস্টম পণ্য টেমপ্লেট ব্যবহার করুন"
+
+msgid "use filters word in permalinks"
+msgstr "পারমালিঙ্কে ফিল্টার শব্দ ব্যবহার করুন"
+
+msgid "Use shortcode to show filter:"
+msgstr "ফিল্টার দেখানোর জন্য শর্টকোড ব্যবহার করুন:"
+
+msgid "Use URL-Based Filter"
+msgstr "URL-ভিত্তিক ফিল্টার ব্যবহার করুন"
+
+msgid "With Ajax"
+msgstr "Ajax সহ"
+
+msgid "With Permalinks (e.g., brand/size/color)"
+msgstr "পারমালিঙ্ক সহ (যেমন, ব্র্যান্ড/আকার/রঙ)"
+
+msgid "With Query String (e.g., ?filters)"
+msgstr "কোয়েরি স্ট্রিং সহ (যেমন, ?filters)"
+
+msgid "WooCommerce Product Filters"
+msgstr "WooCommerce পণ্য ফিল্টার"
+
+msgid "Products are not found. Add product or"
+msgstr "পণ্য পাওয়া যায়নি। পণ্য যোগ করুন বা"
+
+msgid "change selector"
+msgstr "সিলেক্টর পরিবর্তন করুন"
+
+msgid "Pagination is not found"
+msgstr "পেজিনেশন পাওয়া যায়নি"
+
+msgid "Filter working fine"
+msgstr "ফিল্টার ঠিকঠাক কাজ করছে"

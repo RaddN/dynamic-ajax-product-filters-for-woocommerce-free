@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dynamic-ajax-product-filters-for-woocommerce\n"
+"POT-Creation-Date: 2023-10-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "WooCommerce Product Filters"
+msgstr ""
+
+msgid "Product Filters"
+msgstr ""
+
+msgid "Product Filter"
+msgstr ""
+
+msgid "Form Manage"
+msgstr ""
+
+msgid "Form Style"
+msgstr ""
+
+msgid "Advance Settings"
+msgstr ""
+
+msgid "Filter Settings"
+msgstr ""
+
+msgid "Show Categories"
+msgstr ""
+
+msgid "Show Attributes"
+msgstr ""
+
+msgid "Show Tags"
+msgstr ""
+
+msgid "Show Price Range"
+msgstr ""
+
+msgid "Show Rating"
+msgstr ""
+
+msgid "Show Search"
+msgstr ""
+
+msgid "Use URL-Based Filter"
+msgstr ""
+
+msgid "Select URL Filter Type"
+msgstr ""
+
+msgid "With Query String (e.g., ?filters)"
+msgstr ""
+
+msgid "With Permalinks (e.g., brand/size/color)"
+msgstr ""
+
+msgid "With Ajax"
+msgstr ""
+
+msgid "use filters word in permalinks"
+msgstr ""
+
+msgid "If you want to use permalinks filter on your front page, turn it on."
+msgstr ""
+
+msgid "Update filter options"
+msgstr ""
+
+msgid "Show Loader"
+msgstr ""
+
+msgid "customize"
+msgstr ""
+
+msgid "loading effect"
+msgstr ""
+
+msgid "Use Custom Product Template"
+msgstr ""
+
+msgid "Pages Manage"
+msgstr ""
+
+msgid "Add the pages below where you have added the shortcode."
+msgstr ""
+
+msgid "Auto Detect Pages & Default Filters"
+msgstr ""
+
+msgid "Use shortcode to show filter:"
+msgstr ""
+
+msgid "For button style filter use this shortcode:"
+msgstr ""
+
+msgid "For show currently selected filter above product:"
+msgstr ""
+
+msgid "Form Style Options"
+msgstr ""
+
+msgid "Select the filter box style for each attribute below. Additional options will appear based on your selection."
+msgstr ""
+
+msgid "Select Attribute:"
+msgstr ""
+
+msgid "Additional Options:"
+msgstr ""
+
+msgid "Optional Settings:"
+msgstr ""
+
+msgid "Enable Hierarchical:"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enabled & Seperate"
+msgstr ""
+
+msgid "Enabled & hide child"
+msgstr ""
+
+msgid "Enable Minimization Option:"
+msgstr ""
+
+msgid "Enabled with Arrow"
+msgstr ""
+
+msgid "Enabled without Arrow"
+msgstr ""
+
+msgid "Initially Minimized"
+msgstr ""
+
+msgid "Single Selection:"
+msgstr ""
+
+msgid "Only one value can be selected at a time"
+msgstr ""
+
+msgid "Show/Hide Number of Products:"
+msgstr ""
+
+msgid "Show number of products"
+msgstr ""
+
+msgid "Max Height:"
+msgstr ""
+
+msgid "Product Selector"
+msgstr ""
+
+msgid "Enter the CSS selector for the product container. Default is .products."
+msgstr ""
+
+msgid "Pagination Selector"
+msgstr ""
+
+msgid "Enter the CSS selector for the pagination container. Default is .woocommerce-pagination ul.page-numbers."
+msgstr ""
+
+msgid "Product Shortcode Selector"
+msgstr ""
+
+msgid "Enter the selector for the products shortcode. Default is products"
+msgstr ""
+
+msgid "Make filter link indexable for best SEO"
+msgstr ""
+
+msgid "Remove out of stock product"
+msgstr ""
+
+msgid "Import & Export Settings"
+msgstr ""
+
+msgid "Import Settings"
+msgstr ""
+
+msgid "Export Settings"
+msgstr ""
+
+msgid "Reset Settings"
+msgstr ""
+
+msgid "Checking..."
+msgstr ""
+
+msgid "Filter is not added"
+msgstr ""
+
+msgid "Admin Notice"
+msgstr ""
+
+msgid "This page was not found. If you think it's an error go to <b>product filters > Form Manage</b> & turn on <b><a href='/wp-admin/admin.php?page=dapfforwc-admin#:~:text=use%20filters%20word%20in%20permalinks'>use filters word in permalinks</a></b>. (only admin can see this.)"
+msgstr ""
+
+msgid "Products are not found. Add product or"
+msgstr ""
+
+msgid "change selector"
+msgstr ""
+
+msgid "Pagination is not found"
+msgstr ""
+
+msgid "Filter working fine"
+msgstr ""

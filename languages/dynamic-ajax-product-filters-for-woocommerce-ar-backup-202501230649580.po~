@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dynamic-ajax-product-filters-for-woocommerce\n"
+"POT-Creation-Date: 2023-10-01 12:00+0000\n"
+"PO-Revision-Date: 2025-01-23 06:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+msgid "WooCommerce Product Filters"
+msgstr "فلاتر المنتجات لـ WooCommerce"
+
+msgid "Product Filters"
+msgstr "فلاتر المنتجات"
+
+msgid "Product Filter"
+msgstr "فلتر المنتج"
+
+msgid "Form Manage"
+msgstr "إدارة النموذج"
+
+msgid "Form Style"
+msgstr "نمط النموذج"
+
+msgid "Advance Settings"
+msgstr "الإعدادات المتقدمة"
+
+msgid "Filter Settings"
+msgstr "إعدادات الفلتر"
+
+msgid "Show Categories"
+msgstr "عرض الفئات"
+
+msgid "Show Attributes"
+msgstr "عرض السمات"
+
+msgid "Show Tags"
+msgstr "عرض العلامات"
+
+msgid "Show Price Range"
+msgstr "عرض نطاق السعر"
+
+msgid "Show Rating"
+msgstr "عرض التقييم"
+
+msgid "Show Search"
+msgstr "عرض البحث"
+
+msgid "Use URL-Based Filter"
+msgstr "استخدام الفلتر المستند إلى الرابط"
+
+msgid "Select URL Filter Type"
+msgstr "اختر نوع فلتر الرابط"
+
+msgid "With Query String (e.g., ?filters)"
+msgstr "باستخدام سلسلة الاستعلام (مثل، ?filters)"
+
+msgid "With Permalinks (e.g., brand/size/color)"
+msgstr "باستخدام الروابط الدائمة (مثل، العلامة/الحجم/اللون)"
+
+msgid "With Ajax"
+msgstr "باستخدام Ajax"
+
+msgid "use filters word in permalinks"
+msgstr "استخدام كلمة الفلاتر في الروابط الدائمة"
+
+msgid "If you want to use permalinks filter on your front page, turn it on."
+msgstr "إذا كنت ترغب في استخدام فلتر الروابط الدائمة على صفحتك الرئيسية، قم بتشغيله."
+
+msgid "Update filter options"
+msgstr "تحديث خيارات الفلتر"
+
+msgid "Show Loader"
+msgstr "عرض المؤشر"
+
+msgid "customize"
+msgstr "تخصيص"
+
+msgid "loading effect"
+msgstr "تأثير التحميل"
+
+msgid "Use Custom Product Template"
+msgstr "استخدام قالب منتج مخصص"
+
+msgid "Pages Manage"
+msgstr "إدارة الصفحات"
+
+msgid "Add the pages below where you have added the shortcode."
+msgstr "أضف الصفحات أدناه حيث قمت بإضافة الشيفرة المختصرة."
+
+msgid "Auto Detect Pages & Default Filters"
+msgstr "اكتشاف الصفحات والفلاتر الافتراضية تلقائيًا"
+
+msgid "Use shortcode to show filter:"
+msgstr "استخدام الشيفرة المختصرة لعرض الفلتر:"
+
+msgid "For button style filter use this shortcode:"
+msgstr "لاستخدام فلتر بنمط الأزرار، استخدم هذه الشيفرة المختصرة:"
+
+msgid "For show currently selected filter above product:"
+msgstr "لعرض الفلتر المحدد حاليًا فوق المنتج:"
+
+msgid "Form Style Options"
+msgstr "خيارات نمط النموذج"
+
+msgid ""
+"Select the filter box style for each attribute below. Additional options "
+"will appear based on your selection."
+msgstr ""
+"اختر نمط صندوق الفلتر لكل سمة أدناه. ستظهر خيارات إضافية بناءً على اختيارك."
+
+msgid "Select Attribute:"
+msgstr "اختر السمة:"
+
+msgid "Additional Options:"
+msgstr "خيارات إضافية:"
+
+msgid "Optional Settings:"
+msgstr "الإعدادات الاختيارية:"
+
+msgid "Enable Hierarchical:"
+msgstr "تمكين الهيكلية:"
+
+msgid "Disabled"
+msgstr "معطل"
+
+msgid "Enabled"
+msgstr "ممكّن"
+
+msgid "Enabled & Seperate"
+msgstr "ممكّن ومفصول"
+
+msgid "Enabled & hide child"
+msgstr "ممكّن مع إخفاء العناصر الفرعية"
+
+msgid "Enable Minimization Option:"
+msgstr "تمكين خيار التصغير:"
+
+msgid "Enabled with Arrow"
+msgstr "ممكّن مع سهم"
+
+msgid "Enabled without Arrow"
+msgstr "ممكّن بدون سهم"
+
+msgid "Initially Minimized"
+msgstr "مصغّر في البداية"
+
+msgid "Single Selection:"
+msgstr "اختيار فردي:"
+
+msgid "Only one value can be selected at a time"
+msgstr "يمكن اختيار قيمة واحدة فقط في كل مرة"
+
+msgid "Show/Hide Number of Products:"
+msgstr "عرض/إخفاء عدد المنتجات:"
+
+msgid "Show number of products"
+msgstr "عرض عدد المنتجات"
+
+msgid "Max Height:"
+msgstr "الارتفاع الأقصى:"
+
+msgid "Product Selector"
+msgstr "محدد المنتجات"
+
+msgid "Enter the CSS selector for the product container. Default is .products."
+msgstr "أدخل المحدد CSS لحاوية المنتج. الافتراضي هو .products."
+
+msgid "Pagination Selector"
+msgstr "محدد الترقيم"
+
+msgid ""
+"Enter the CSS selector for the pagination container. Default is .woocommerce-"
+"pagination ul.page-numbers."
+msgstr ""
+"أدخل المحدد CSS لحاوية الترقيم. الافتراضي هو .woocommerce-pagination ul.page-numbers."
+
+msgid "Product Shortcode Selector"
+msgstr "محدد الشيفرة المختصرة للمنتج"
+
+msgid "Enter the selector for the products shortcode. Default is products"
+msgstr "أدخل المحدد للشيفرة المختصرة للمنتجات. الافتراضي هو products."
+
+msgid "Make filter link indexable for best SEO"
+msgstr "اجعل رابط الفلتر قابلًا للفهرسة لأفضل تحسين لمحركات البحث"
+
+msgid "Remove out of stock product"
+msgstr "إزالة المنتجات غير المتوفرة"
+
+msgid "Import & Export Settings"
+msgstr "إعدادات الاستيراد والتصدير"
+
+msgid "Import Settings"
+msgstr "إعدادات الاستيراد"
+
+msgid "Export Settings"
+msgstr "إعدادات التصدير"
+
+msgid "Reset Settings"
+msgstr "إعادة ضبط الإعدادات"
+
+msgid "Checking..."
+msgstr "جارٍ التحقق..."
+
+msgid "Filter is not added"
+msgstr "لم يتم إضافة الفلتر"
+
+msgid "Admin Notice"
+msgstr "إشعار المسؤول"
+
+msgid ""
+"This page was not found. If you think it's an error go to <b>product filters "
+"> Form Manage</b> & turn on <b><a href='/wp-admin/admin.php?page=dapfforwc-"
+"admin#:~:text=use%20filters%20word%20in%20permalinks'>use filters word in "
+"permalinks</a></b>. (only admin can see this.)"
+msgstr ""
+"لم يتم العثور على هذه الصفحة. إذا كنت تعتقد أنه خطأ، انتقل إلى <b>فلاتر المنتجات > إدارة النموذج</b> وقم بتشغيل <b><a href='/wp-admin/admin.php?page=dapfforwc-admin#:~:text=use%20filters%20word%20in%20permalinks'>استخدام كلمة الفلاتر في الروابط الدائمة</a></b>. (يمكن للمسؤول فقط رؤية هذا.)"
+
+msgid "Products are not found. Add product or"
+msgstr "لم يتم العثور على منتجات. أضف منتجًا أو"
+
+msgid "change selector"
+msgstr "تغيير المحدد"
+
+msgid "Pagination is not found"
+msgstr "لم يتم العثور على الترقيم"
+
+msgid "Filter working fine"
+msgstr "الفلتر يعمل بشكل جيد"

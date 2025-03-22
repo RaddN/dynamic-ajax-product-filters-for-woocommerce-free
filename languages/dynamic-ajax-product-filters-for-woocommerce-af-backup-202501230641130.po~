@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dynamic-ajax-product-filters-for-woocommerce\n"
+"POT-Creation-Date: 2023-10-01 12:00+0000\n"
+"PO-Revision-Date: 2025-01-23 06:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Afrikaans\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+msgid "Add the pages below where you have added the shortcode."
+msgstr "Voeg die bladsye hieronder by waar jy die kortkode gevoeg het."
+
+msgid "Additional Options:"
+msgstr "Bykomende Opsies:"
+
+msgid "Admin Notice"
+msgstr "Administrateur Kennisgewing"
+
+msgid "Advance Settings"
+msgstr "Gevorderde Instellings"
+
+msgid "Auto Detect Pages & Default Filters"
+msgstr "Outomatiese Opsporing van Bladsye & Verstekfilters"
+
+msgid "change selector"
+msgstr "verander selekteerder"
+
+msgid "Checking..."
+msgstr "Besig om te kontroleer..."
+
+msgid "customize"
+msgstr "pas aan"
+
+msgid "Disabled"
+msgstr "Gedeaktiveer"
+
+msgid "Enable Hierarchical:"
+msgstr "Aktiveer Hiërargies:"
+
+msgid "Enable Minimization Option:"
+msgstr "Aktiveer Minimaliseringsopsie:"
+
+msgid "Enabled"
+msgstr "Geaktiveer"
+
+msgid "Enabled & hide child"
+msgstr "Geaktiveer & verberg subitems"
+
+msgid "Enabled & Seperate"
+msgstr "Geaktiveer & Afsonderlik"
+
+msgid "Enabled with Arrow"
+msgstr "Geaktiveer met Pyl"
+
+msgid "Enabled without Arrow"
+msgstr "Geaktiveer sonder Pyl"
+
+msgid ""
+"Enter the CSS selector for the pagination container. Default is .woocommerce-"
+"pagination ul.page-numbers."
+msgstr ""
+"Voer die CSS-selekteerder in vir die bladsy-nommerhouer. Verstek is ."
+"woocommerce-pagination ul.page-numbers."
+
+msgid "Enter the CSS selector for the product container. Default is .products."
+msgstr ""
+"Voer die CSS-selekteerder in vir die produkhouer. Verstek is .products."
+
+msgid "Enter the selector for the products shortcode. Default is products"
+msgstr ""
+"Voer die selekteerder in vir die produktekortkode. Verstek is products."
+
+msgid "Export Settings"
+msgstr "Voer Instellings Uit"
+
+msgid "Filter is not added"
+msgstr "Filter is nie gevoeg nie"
+
+msgid "Filter Settings"
+msgstr "Filterinstellings"
+
+msgid "Filter working fine"
+msgstr "Filter werk goed"
+
+msgid "For button style filter use this shortcode:"
+msgstr "Vir knoppie-styl filter gebruik hierdie kortkode:"
+
+msgid "For show currently selected filter above product:"
+msgstr "Om tans geselekteerde filter bo produk te wys:"
+
+msgid "Form Manage"
+msgstr "Bestuur Vorm"
+
+msgid "Form Style"
+msgstr "Vormstyl"
+
+msgid "Form Style Options"
+msgstr "Vormstylopsies"
+
+msgid "If you want to use permalinks filter on your front page, turn it on."
+msgstr "As jy die permalinkfilter op jou voorblad wil gebruik, skakel dit aan."
+
+msgid "Import & Export Settings"
+msgstr "Invoer & Uitvoer Instellings"
+
+msgid "Import Settings"
+msgstr "Voer Instellings In"
+
+msgid "Initially Minimized"
+msgstr "Aanvanklik Geminimaliseer"
+
+msgid "loading effect"
+msgstr "laai-effek"
+
+msgid "Make filter link indexable for best SEO"
+msgstr "Maak filterskakel indekseerbaar vir beste SEO"
+
+msgid "Max Height:"
+msgstr "Maksimum Hoogte:"
+
+msgid "Only one value can be selected at a time"
+msgstr "Slegs een waarde kan op 'n slag gekies word"
+
+msgid "Optional Settings:"
+msgstr "Opsionele Instellings:"
+
+msgid "Pages Manage"
+msgstr "Bestuur Bladsye"
+
+msgid "Pagination is not found"
+msgstr "Bladsy-nommering nie gevind nie"
+
+msgid "Pagination Selector"
+msgstr "Bladsy-nommer Selekteerder"
+
+msgid "Product Filter"
+msgstr "Produktefilter"
+
+msgid "Product Filters"
+msgstr "Produktefilters"
+
+msgid "Product Selector"
+msgstr "Produk Selekteerder"
+
+msgid "Product Shortcode Selector"
+msgstr "Produkkortkode Selekteerder"
+
+msgid "Products are not found. Add product or"
+msgstr "Produkte is nie gevind nie. Voeg produkte by of"
+
+msgid "Remove out of stock product"
+msgstr "Verwyder uit voorraad produk"
+
+msgid "Reset Settings"
+msgstr "Herstel Instellings"
+
+msgid "Select Attribute:"
+msgstr "Kies Eienskap:"
+
+msgid ""
+"Select the filter box style for each attribute below. Additional options "
+"will appear based on your selection."
+msgstr ""
+"Kies die filterblokkie-styl vir elke eienskap hieronder. Bykomende opsies "
+"sal verskyn op grond van jou keuse."
+
+msgid "Select URL Filter Type"
+msgstr "Kies URL Filtertipe"
+
+msgid "Show Attributes"
+msgstr "Wys Eienskappe"
+
+msgid "Show Categories"
+msgstr "Wys Kategorieë"
+
+msgid "Show Loader"
+msgstr "Wys Laaier"
+
+msgid "Show number of products"
+msgstr "Wys aantal produkte"
+
+msgid "Show Price Range"
+msgstr "Wys Prysklas"
+
+msgid "Show Rating"
+msgstr "Wys Gradering"
+
+msgid "Show Search"
+msgstr "Wys Soektog"
+
+msgid "Show Tags"
+msgstr "Wys Etikette"
+
+msgid "Show/Hide Number of Products:"
+msgstr "Wys/Verberg Aantal Produkte:"
+
+msgid "Single Selection:"
+msgstr "Enkel Keuse:"
+
+msgid ""
+"This page was not found. If you think it's an error go to <b>product filters "
+"> Form Manage</b> & turn on <b><a href='/wp-admin/admin.php?page=dapfforwc-"
+"admin#:~:text=use%20filters%20word%20in%20permalinks'>use filters word in "
+"permalinks</a></b>. (only admin can see this.)"
+msgstr ""
+
+msgid "Update filter options"
+msgstr "Werk filteropsies by"
+
+msgid "Use Custom Product Template"
+msgstr "Gebruik Pasgemaakte Produk Template"
+
+msgid "use filters word in permalinks"
+msgstr "gebruik filterwoord in permalinks"
+
+msgid "Use shortcode to show filter:"
+msgstr "Gebruik kortkode om filter te wys:"
+
+msgid "Use URL-Based Filter"
+msgstr "Gebruik URL-gebaseerde Filter"
+
+msgid "With Ajax"
+msgstr "Met Ajax"
+
+msgid "With Permalinks (e.g., brand/size/color)"
+msgstr "Met Permalinks (bv., handelsmerk/grootte/kleur)"
+
+msgid "With Query String (e.g., ?filters)"
+msgstr "Met Vraagstring (bv., ?filters)"
+
+msgid "WooCommerce Product Filters"
+msgstr "WooCommerce Produktefilters"
