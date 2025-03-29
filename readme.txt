@@ -5,7 +5,7 @@ Contributors: plugincy
 Tags: product filters, ajax product filters, woocommerce ajax product filters, woocommerce filters, advanced product filters
 Requires at least: 4.7
 Tested up to: 6.7
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -90,6 +90,14 @@ Yes, you can use the `[plugincy_filters attribute="your-attribute" terms="your-t
 * Added AJAX filtering by category, tag, and attribute.
 * Enabled seamless integration with query strings and custom permalinks.
 * Autodetect pages where shortcode used
+
+= 1.0.5 =
+* More efficient & effective.
+* Automatic update price slider.
+* Database call zero.
+* remove auto page detect
+* Work with custom shortcode
+* Custom sorting update
 
 == Additional Information ==
 

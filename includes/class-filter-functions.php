@@ -190,7 +190,7 @@ class dapfforwc_Filter_Functions
 
         $currentpage_slug = $currentpage_slug == "/" ? $dapfforwc_front_page_slug : $currentpage_slug;
         $per_page = isset($dapfforwc_options["product_show_settings"][$currentpage_slug]["per_page"]) ? intval($dapfforwc_options["product_show_settings"][$currentpage_slug]["per_page"]) : 12;
-        $total_pages = ceil($count_total_showing_product / $per_page);
+        $total_pages = ceil($count_total_showing_product / $per_page)??1;
         $start_index = ($paged - 1) * $per_page;
         $end_index = min($start_index + $per_page, $count_total_showing_product);
 

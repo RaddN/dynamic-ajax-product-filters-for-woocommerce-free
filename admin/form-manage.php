@@ -118,7 +118,7 @@ function dapfforwc_use_url_filter_render()
             $label_class = $value === 'pro_only' ? 'pro-only' : '';
 
             echo '<label class="' . esc_attr($label_class) . '">
-                    <input type="radio" name="dapfforwc_options[use_url_filter]" value="' . esc_attr($value) . '" ' . checked($dapfforwc_options['use_url_filter'], $value, false) . ' ' . esc_attr($disabled) . '> 
+                    <input type="radio" name="dapfforwc_options[use_url_filter]" value="' . esc_attr($value) . '" ' . checked(isset($dapfforwc_options['use_url_filter'])?$dapfforwc_options['use_url_filter']:"", $value, false) . ' ' . esc_attr($disabled) . '> 
                     ' . esc_html($label) . '
                   </label><br>';
         }

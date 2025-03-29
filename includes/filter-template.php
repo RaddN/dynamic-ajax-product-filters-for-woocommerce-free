@@ -13,12 +13,12 @@ function dapfforwc_product_filter_shortcode($atts)
     $dapfforwc_slug = isset($post) ? dapfforwc_get_full_slug($post->ID) : "";
     $request = $wp->request;
     $shortcode = $dapfforwc_advance_settings["product_shortcode"] ?? 'products'; // Shortcode to search for
-    $attributes_list = dapfforwc_get_shortcode_attributes_from_page($post->post_content, $shortcode);
+    $attributes_list = dapfforwc_get_shortcode_attributes_from_page($post->post_content ?? "", $shortcode);
     foreach ($attributes_list as $attributes) {
         // Ensure that the 'category', 'attribute', and 'terms' keys exist
-        $arrayCata = isset($attributes['category']) ? explode(",", $attributes['category']) : [];
-        $tagValue = isset($attributes['tags']) ? $attributes['tags'] : [];
-        $termsValue = isset($attributes['terms']) ? $attributes['terms'] : [];
+        $arrayCata = isset($attributes['category']) ? array_map('trim', explode(",", $attributes['category'])) : [];
+        $tagValue = isset($attributes['tags']) ? array_map('trim', explode(",", $attributes['tags'])) : [];
+        $termsValue = isset($attributes['terms']) ? array_map('trim', explode(",", $attributes['terms'])) : [];
         $filters = !empty($arrayCata) ? $arrayCata : (!empty($tagValue) ? $tagValue : $termsValue);
 
         // Use the combined full slug as the key in default_filters
@@ -171,8 +171,6 @@ function dapfforwc_product_filter_shortcode($atts)
     if (!empty($products_id_by_rating)) {
         $products_ids = array_values(array_intersect($products_ids, $products_id_by_rating));
     }
-
-
     $updated_filters = dapfforwc_get_updated_filters($products_ids, $all_data) ?? [];
     // Cache file path
     $cache_file = __DIR__ . '/min_max_prices_cache.json';
@@ -387,7 +385,11 @@ function dapfforwc_product_filter_shortcode($atts)
                 });
             </script>
         <?php } ?>
-        <form id="product-filter" method="POST" data-product_show_settings='<?php echo json_encode($dapfforwc_options['product_show_settings'][$dapfforwc_slug]); ?>'
+        <form id="product-filter" method="POST" 
+        data-product_show_settings='
+        <?php 
+        echo isset($dapfforwc_options['product_show_settings'][$dapfforwc_slug])? json_encode($dapfforwc_options['product_show_settings'][$dapfforwc_slug]):""; 
+        ?>'
             <?php if (!empty($atts['product_selector'])) {
                 echo 'data-product_selector="' . esc_attr($atts["product_selector"]) . '"';
             } ?>

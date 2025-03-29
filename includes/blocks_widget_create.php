@@ -549,6 +549,18 @@ function dapfforwc_register_dynamic_ajax_filter_widget_elementor()
                     ],
                 ]
             );
+            $this->add_control(
+                'use_custom_template_design',
+                [
+                    'label'   => __('Select Filter Type', 'dynamic-ajax-product-filters-for-woocommerce'),
+                    'type'    => \Elementor\Controls_Manager::SELECT,
+                    'options' => [
+                        'yes'      => __('Yes', 'dynamic-ajax-product-filters-for-woocommerce'),
+                        'no'   => __('No', 'dynamic-ajax-product-filters-for-woocommerce')                        
+                    ],
+                    'default' => 'no',
+                ]
+            );
 
             $this->add_control(
                 'filter_name',
@@ -2008,8 +2020,9 @@ function dapfforwc_register_dynamic_ajax_filter_widget_elementor()
                 case 'all':
                     $product_selector = esc_attr($settings['product_selector']);
                     $pagination_selector = esc_attr($settings['pagination_selector']);
+                    $use_custom_template_design = esc_attr($settings['use_custom_template_design']);
                     $mobile_responsive_style = esc_attr($settings['mobile_responsive_style']);
-                    $output .= do_shortcode("[plugincy_filters mobile_responsive=\"$mobile_responsive_style\"  product_selector=\"$product_selector\" pagination_selector=\"$pagination_selector\"]");
+                    $output .= do_shortcode("[plugincy_filters use_custom_template_design=\"$use_custom_template_design\" mobile_responsive=\"$mobile_responsive_style\"  product_selector=\"$product_selector\" pagination_selector=\"$pagination_selector\"]");
                     break;
 
                 case 'single':
